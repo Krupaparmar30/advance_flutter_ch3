@@ -3,19 +3,23 @@
 A new Flutter project.
 
 ## Getting Started
+
 1. Adding the Package
+
 First, add connectivity_plus to your pubspec.yaml:
 
 yaml
 Copy code
 dependencies:
   connectivity_plus: ^2.3.0
+
 2. Importing the Package
 In your Dart file, import the package:
 
 dart
 Copy code
 import 'package:connectivity_plus/connectivity_plus.dart';
+
 3. Checking Connectivity
 You can check the current connectivity status using:
 
@@ -31,6 +35,7 @@ Future<void> checkConnectivity() async {
     print('Not connected to any network');
   }
 }
+
 4. Listening to Connectivity Changes
 To listen for connectivity changes:
 
