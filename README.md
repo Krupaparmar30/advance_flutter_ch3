@@ -59,3 +59,9 @@ void listenToConnectivity() {
 
 https://github.com/user-attachments/assets/a9733a49-6185-48de-91e4-2725f36db4b6
 
+# Shopping App
+<img src="https://github.com/user-attachments/assets/ae1d7463-2e81-4778-9021-6421eef2164c" height=28% width=32%>
+<img src="https://github.com/user-attachments/assets/887936aa-6953-4873-b09e-59fcae80bdf5" height=28% width=32%>
+<img src="https://github.com/user-attachments/assets/55b5438a-9040-4009-af73-d168b34c5001" height=28% width=32%>
+
+
