@@ -1,6 +1,8 @@
 import 'package:advance_flutter_ch3/screens/HomePage/HomePage.dart';
+import 'package:advance_flutter_ch3/screens/web_screen/web_screen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 
 void main()
 {
@@ -11,9 +13,10 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return GetMaterialApp(
        debugShowCheckedModeBanner: false,
-      home: HomePage(),
+      // home: HomePage(),
+      home: webScreen(),
     );
   }
 }
